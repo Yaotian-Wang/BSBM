@@ -52,5 +52,5 @@ The models used to generate these simulated datasets are described in Section 3.
 
 
 ## Reference
-Huazhang Li, Yaotian Wang, Guofen Yan, Yinge Sun, Seiji Tanabe, Chang-Chia Liu, Mark S. Quigg, Tingting Zhang (2020).  A Bayesian State-Space Approach to Mapping
-Directional Brain Networks, *Journal of the American Statistical Association*. Under Review. 
+Huazhang Li, Yaotian Wang, Guofen Yan, Yinge Sun, Seiji Tanabe, Chang-Chia Liu, Mark S. Quigg, Tingting Zhang (2021).  A Bayesian State-Space Approach to Mapping
+Directional Brain Networks, *Journal of the American Statistical Association*, 116(536): 1637-1647. 
